@@ -1,5 +1,10 @@
 # Eksperimen Keamanan Web: Pencegahan SQL Injection pada Sistem Login Admin Berbasis CodeIgniter 4
 
+## Nama : Muhamad Nabil Satriya Suntara
+## Nim : 312410365
+## Matkul : Pemrograman Web
+## Kelas : I241D
+
 ## Pendahuluan
 
 Dalam pengembangan website, keamanan sistem merupakan hal yang sangat penting. Salah satu ancaman yang paling sering terjadi adalah SQL Injection (SQLi). Serangan ini terjadi ketika penyerang memasukkan perintah SQL berbahaya melalui form input seperti login, pencarian, atau formulir lainnya. Jika tidak ditangani dengan baik, serangan ini dapat menyebabkan kebocoran data dan akses ilegal ke sistem.
@@ -20,7 +25,7 @@ Pada proses ini, saya mengamati apakah sistem menggunakan query manual yang rent
 
 Berikut adalah implementasi kode pada file `app/Controllers/User.php`:
 
-# Berikur bukti
+# Berikut bukti
 <img width="1076" height="798" alt="Screenshot 2026-04-28 135210" src="https://github.com/user-attachments/assets/1f208e03-a579-4d38-9bfe-fe42dfa3ce9d" />
 
 ```php
